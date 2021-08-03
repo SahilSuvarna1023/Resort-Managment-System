@@ -1,0 +1,40 @@
+body{
+		background: linear-gradient(rgba(0, 0, 50, 5), rgba(0, 0, 50, 0.5)), url(../images/mariana1.jpg);
+		background-size: cover;
+		background-position: center;
+	}
+
+
+	.login-left{
+		background: rgba(211, 211, 211, 0.5);
+		padding: 35px;
+		max-width: 700px;
+		position: relative;
+		top: 100px;
+		left: 300px;
+	}
+
+
+	.form-control{
+		background-color: transparent;
+	} 
+
+	a{
+		color: #fff ;
+		margin-top: -200px !important;
+        font-size: 1.3rem;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    a:hover{
+        background-color: rgb(79, 162, 230);
+        color: #fff;
+        padding: 2px 15px;
+        border-radius: 4px;
+    }
+
+	h1{
+		color: #fff ;
+		margin-top: 200px !important;
+		text-align: center;
+		text-transform: uppercase;
+	}
